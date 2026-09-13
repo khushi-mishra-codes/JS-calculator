@@ -1,4 +1,5 @@
 # 🧮 My Calculator
+## Live Demo: [Live Calculator](https://khushi-mishra-codes.github.io/JS-calculator/)
 A simple and responsive calculator built using HTML, CSS and JavaScript.
 <hr>
 ## ✨ Features
